@@ -1,0 +1,11 @@
+# Ignore build files
+/target
+/build
+
+# Ignore IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Ignore system files
+.DS_Store
